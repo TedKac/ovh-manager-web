@@ -1,3 +1,44 @@
+<a name="13.4.18"></a>
+## [13.4.18](https://github.com/ovh-ux/ovh-manager-web/compare/v13.4.17...v13.4.18) (2018-08-01)
+
+
+### Features
+
+* **email.responder:** disable actions while task processes ([#469](https://github.com/ovh-ux/ovh-manager-web/issues/469)) ([85417bb](https://github.com/ovh-ux/ovh-manager-web/commit/85417bb))
+
+
+
+<a name="13.4.17"></a>
+## [13.4.17](https://github.com/ovh-ux/ovh-manager-web/compare/v13.4.16...v13.4.17) (2018-07-26)
+
+
+### Bug Fixes
+
+* **domain.zone:** fix dns NAPTR and SRV record creation ([c5c7955](https://github.com/ovh-ux/ovh-manager-web/commit/c5c7955))
+
+
+
+<a name="13.4.16"></a>
+## [13.4.16](https://github.com/ovh-ux/ovh-manager-web/compare/v13.4.15...v13.4.16) (2018-07-24)
+
+
+### Bug Fixes
+
+* order account link redirects to wront page ([#468](https://github.com/ovh-ux/ovh-manager-web/issues/468)) ([519e8e9](https://github.com/ovh-ux/ovh-manager-web/commit/519e8e9))
+* **cloudweb:** display configuration usage in disk usage ([1c0e612](https://github.com/ovh-ux/ovh-manager-web/commit/1c0e612))
+* **components guides:** guide tile ([#435](https://github.com/ovh-ux/ovh-manager-web/issues/435)) ([6e202f8](https://github.com/ovh-ux/ovh-manager-web/commit/6e202f8))
+* **email-domain migrate:** use heading attribut on oui-back-button ([b04e1e9](https://github.com/ovh-ux/ovh-manager-web/commit/b04e1e9)), closes [/github.com/ovh-ux/ovh-ui-angular/commit/5ddc0ef2edba5898b97fcca0a73124d369432778#diff-c9aba9326a8bbfe4300255981d64e080R12](https://github.com//github.com/ovh-ux/ovh-ui-angular/commit/5ddc0ef2edba5898b97fcca0a73124d369432778/issues/diff-c9aba9326a8bbfe4300255981d64e080R12)
+* **hosting:** fix asterisk in translation ([a5ae94b](https://github.com/ovh-ux/ovh-manager-web/commit/a5ae94b))
+* **hosting:** fix cloudweb configuration quota ([9a481ef](https://github.com/ovh-ux/ovh-manager-web/commit/9a481ef))
+* **hosting:** update password conditions in hosting module creation ([ee224f7](https://github.com/ovh-ux/ovh-manager-web/commit/ee224f7))
+
+
+### Features
+
+* **navbar:** add notifications placeholder translations ([#448](https://github.com/ovh-ux/ovh-manager-web/issues/448)) ([1eb560c](https://github.com/ovh-ux/ovh-manager-web/commit/1eb560c))
+
+
+
 <a name="13.4.15"></a>
 ## [13.4.15](https://github.com/ovh-ux/ovh-manager-web/compare/v13.4.14...v13.4.15) (2018-07-06)
 
