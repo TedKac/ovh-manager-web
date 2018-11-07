@@ -8511,9 +8511,9 @@ ovh-module-emailpro@ovh-ux/ovh-module-emailpro#^7.0.1:
     moment "^2.16.0"
     punycode "^1.2.4"
 
-ovh-module-exchange@ovh-ux/ovh-module-exchange#^9.0.1:
+ovh-module-exchange@TedKac/ovh-module-exchange#style/use-oui-tile-exchange-dashboard:
   version "9.0.4"
-  resolved "https://codeload.github.com/ovh-ux/ovh-module-exchange/tar.gz/ebf6a39d9be82711b9f83bd7ab70eccca04d87b6"
+  resolved "https://codeload.github.com/TedKac/ovh-module-exchange/tar.gz/c8b82c5ff7ae2ae13818f88b4ba927332765cd5f"
   dependencies:
     lodash "~3.9.3"
 
