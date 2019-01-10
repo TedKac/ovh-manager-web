@@ -7667,10 +7667,9 @@ ovh-module-emailpro@^7.0.10:
     moment "^2.16.0"
     punycode "^1.2.4"
 
-ovh-module-exchange@^9.2.2:
+ovh-module-exchange@TedKac/ovh-module-exchange#fix/exchange-disclaimer-disable-oui-action-menu:
   version "9.2.2"
-  resolved "https://registry.yarnpkg.com/ovh-module-exchange/-/ovh-module-exchange-9.2.2.tgz#40a461ef9307163f2e021f187b3a208e36745162"
-  integrity sha512-8RosRDpqpCBAu6vKuSfVWFnX2EC8GCa7frZ/iTMhZ/LXwpGoxcEKs5r/VeZtEW4DvV522GbUfD9IE2ZkmoETyw==
+  resolved "https://codeload.github.com/TedKac/ovh-module-exchange/tar.gz/4ae4449f66d3d003a3c53a805a87968d96a20463"
   dependencies:
     filesize "^3.6.1"
     lodash "~3.9.3"
